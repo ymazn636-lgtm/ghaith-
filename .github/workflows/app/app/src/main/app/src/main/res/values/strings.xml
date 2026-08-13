@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">VpnApp</string>
+
+    <string name="admob_banner_ad_unit_id">ca-app-pub-8626213165289122/9024950067</string>
+
+    <string name="admob_ad_unit_id_2">ca-app-pub-8626213165289122/6291955456</string>
+    <string name="admob_ad_unit_id_3">ca-app-pub-8626213165289122/1062699568</string>
+
+    <string name="btn_connect">اتصال</string>
+    <string name="btn_disconnect">قطع الاتصال</string>
+    <string name="status_disconnected">غير متصل</string>
+    <string name="status_connecting">جارٍ الاتصال...</string>
+    <string name="status_connected">متصل</string>
+</resources>
