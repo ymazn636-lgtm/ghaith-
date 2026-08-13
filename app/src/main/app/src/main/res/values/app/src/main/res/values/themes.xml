@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.VpnApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#1976D2</item>
+        <item name="colorPrimaryDark">#0D47A1</item>
+        <item name="colorAccent">#64B5F6</item>
+    </style>
+</resources>
